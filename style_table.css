@@ -1,0 +1,20 @@
+.style th {
+  background-color: #17202A;
+  color: white;
+  padding: 7px;
+  border: 1px solid #17202A;
+}
+
+.style td{
+  padding: 7px;
+  border: 1px solid #17202A;
+}
+
+.style tr:hover {
+  background-color:#FFF8DC;
+}
+
+.style table {
+  border-collapse: collapse;
+  border: 1px solid #17202A;
+}
